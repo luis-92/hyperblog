@@ -1,3 +1,4 @@
 hola
 soy paco este es mi nuevo archivo para practiar git en platzi
 tengo 28 años
+Mañana nos enfocaremos en su vida laboral
